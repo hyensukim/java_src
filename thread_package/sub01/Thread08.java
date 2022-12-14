@@ -1,3 +1,4 @@
+//학원에서 test
 package thread_package.sub01;
 // join() 예제
 public class Thread08 {
