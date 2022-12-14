@@ -1,3 +1,4 @@
+//학원에서 테스트
 package thread_package.sub01;
 //synchronized(동기화) 관련 예제
 public class Thread09 {
