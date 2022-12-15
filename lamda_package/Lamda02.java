@@ -7,6 +7,7 @@ public class Lamda02 {
 		add02((x,y)->x-y);
 	}
 	// 여기서 Calculator cal을 매개변수로 받고 add() 메서드를 호출할 수 있는 이유?
+	//위에서 함수형 인터페이스를 람다식으로 구현할 것을 감지하여 호출이 가능한 것이다.
 	public static void add02(Calculator cal) {
 		int result = cal.add(40, 30);
 		System.out.println(result);
